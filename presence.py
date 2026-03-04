@@ -3,7 +3,7 @@ import requests
 import time
 
 CLIENT_ID = "1478716804636606627"
-CONFIG_URL = "https://dein-railway-projekt.up.railway.app/config"
+CONFIG_URL = "https://yuqiide.app/config"
 
 RPC = Presence(CLIENT_ID)
 RPC.connect()
